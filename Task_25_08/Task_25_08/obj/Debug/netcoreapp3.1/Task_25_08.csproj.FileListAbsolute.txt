@@ -1,0 +1,14 @@
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.exe
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.deps.json
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.runtimeconfig.json
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.dll
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.dll
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.genruntimeconfig.cache
