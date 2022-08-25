@@ -12,3 +12,17 @@ C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08
 C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.dll
 C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.pdb
 C:\Users\sabirmg\Desktop\New folder (2)\25.08\AbstractTask\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.dll
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.exe
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.runtimeconfig.dev.json
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.dll
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\bin\Debug\netcoreapp3.1\Task_25_08.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\PYP all tasks\25.08\25-Avqust\Task_25_08\Task_25_08\obj\Debug\netcoreapp3.1\Task_25_08.genruntimeconfig.cache

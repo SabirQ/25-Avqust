@@ -7,11 +7,18 @@ namespace Task_25_08.Models
 {
     class Violin : Instrumental
     {
-        public string ViolinStrings { get; set; }
+        public string Tailpiece { get; set; }
+        public string ViolinString { get; set; }
+        public string ViolinBow { get; set; }
+        public string Quality { get; set; }
         public override string Sound()
         {
-           
             return "Violin sound";
         }
+        public string VibrateStrings()
+        {
+            return "violin strings are vibrated";
+        }
+
     }
 }
